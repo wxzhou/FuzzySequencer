@@ -1,0 +1,27 @@
+[bwa_index] Pack FASTA... 0.00 sec
+[bwa_index] Construct BWT for the packed sequence...
+[bwa_index] 0.01 seconds elapse.
+[bwa_index] Update BWT... 0.00 sec
+[bwa_index] Pack forward-only FASTA... 0.00 sec
+[bwa_index] Construct SA from BWT and Occ... 0.00 sec
+[main] Version: 0.7.12-r1039
+[main] CMD: bwa index -p genome/lambda_phage.fasta genome/lambda_phage.fasta
+[main] Real time: 0.020 sec; CPU: 0.020 sec
+[bwa_index] Pack FASTA... 0.00 sec
+[bwa_index] Construct BWT for the packed sequence...
+[bwa_index] 0.01 seconds elapse.
+[bwa_index] Update BWT... 0.00 sec
+[bwa_index] Pack forward-only FASTA... 0.00 sec
+[bwa_index] Construct SA from BWT and Occ... 0.00 sec
+[main] Version: 0.7.12-r1039
+[main] CMD: bwa index -p genome/bMK.fasta genome/bMK.fasta
+[main] Real time: 0.017 sec; CPU: 0.017 sec
+[bwa_index] Pack FASTA... 0.00 sec
+[bwa_index] Construct BWT for the packed sequence...
+[bwa_index] 0.01 seconds elapse.
+[bwa_index] Update BWT... 0.00 sec
+[bwa_index] Pack forward-only FASTA... 0.00 sec
+[bwa_index] Construct SA from BWT and Occ... 0.00 sec
+[main] Version: 0.7.12-r1039
+[main] CMD: bwa index -p genome/bRY.fasta genome/bRY.fasta
+[main] Real time: 0.018 sec; CPU: 0.017 sec
